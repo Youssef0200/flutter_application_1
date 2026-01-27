@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_application_1/Core/theming/styles.dart';
-import 'package:flutter_screenutil/flutter_screenutil.dart';
+//import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:flutter_svg/svg.dart';
 
 class DoctorImageAndText extends StatelessWidget {
